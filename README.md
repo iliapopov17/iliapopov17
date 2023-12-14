@@ -1,6 +1,6 @@
 <h1 align="center"> Ilia Popov </h1>
 
-## Contacts
+### Contacts
 [![Telegram](https://img.shields.io/badge/Telegram--brightgreen?style=social&logo=Telegram)](https://t.me/ilya_pop0v)
 [![iljapopov17@gmail.com](https://img.shields.io/badge/iljapopov17@gmail.com--brightgreen?style=social&logo=gmail)](mailto:iljapopov17@gmail.com)
 
@@ -11,7 +11,7 @@
  - 📚 Literally bookworm
  - ✈️ I enjoy travelling
 
-## Papers
+### Papers
 [![Scopus](https://img.shields.io/badge/Scopus--brightgreen?style=social&logo=Scopus)](https://www.scopus.com/authid/detail.uri?authorId=57221205566)
 [![WoS](https://img.shields.io/badge/WoS--brightgreen?style=social&logo=Clarivate)](https://www.webofscience.com/wos/author/record/ABB-2502-2021)
 
