@@ -19,21 +19,21 @@
 
 <p align="left">
    <a 
-    href="https://code.visualstudio.com/" 
+    href="https://www.python.org" 
     target="_blank" rel="noreferrer"> 
     <img
         src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
     /> 
  </a> 
      <a 
-    href="https://code.visualstudio.com/" 
+    href="https://pandas.pydata.org" 
     target="_blank" rel="noreferrer"> 
     <img
         src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"
     /> 
  </a> 
    <a 
-    href="https://code.visualstudio.com/" 
+    href="https://numpy.org" 
     target="_blank" rel="noreferrer"> 
     <img
         src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"
@@ -47,42 +47,42 @@
     />    
  </a> 
  <a 
-    href="https://code.visualstudio.com/" 
+    href="https://posit.co/download/rstudio-desktop/" 
     target="_blank" rel="noreferrer"> 
     <img
         src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
     /> 
  </a>
     <a 
-    href="https://code.visualstudio.com/" 
+    href="https://posit.co/download/rstudio-desktop/" 
     target="_blank" rel="noreferrer"> 
     <img
         src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"
     /> 
  </a> 
   <a 
-    href="https://code.visualstudio.com/" 
+    href="https://jupyter.org" 
     target="_blank" rel="noreferrer"> 
     <img
         src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&color=525252"
     /> 
  </a> 
     <a 
-    href="https://code.visualstudio.com/" 
+    href="https://anaconda.org" 
     target="_blank" rel="noreferrer"> 
     <img
         src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&color=525252"
     /> 
  </a>
     <a 
-    href="https://code.visualstudio.com/" 
+    href="https://ubuntu.com" 
     target="_blank" rel="noreferrer"> 
     <img
         src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
     /> 
  </a> 
        <a 
-    href="https://code.visualstudio.com/" 
+    href="https://www.overleaf.com" 
     target="_blank" rel="noreferrer"> 
     <img
         src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"
