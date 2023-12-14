@@ -5,7 +5,7 @@
 [![iljapopov17@gmail.com](https://img.shields.io/badge/iljapopov17@gmail.com--brightgreen?style=social&logo=gmail)](mailto:iljapopov17@gmail.com)
 
 ### I am:
- - 🔬 Research assistant in Don State Medical University
+ - 🔬 Research assistant in Don State Technical University
  - 🩺 Medical Doctor
  - 💻 Studying bioinformatics
  - 📚 Literally bookworm
