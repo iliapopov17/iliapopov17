@@ -7,9 +7,9 @@
 ### I am:
  - 🔬 Research assistant at Don State Technical University
  - 🩺 Medical Doctor
- - 💻 Studying bioinformatics
+ - 💻 Studying at Bioinformatics Institution
  - 📚 Literally bookworm
- - ✈️ I enjoy travelling
+ - ✈️ Enjoy travelling
 
 ### Papers:
 <!--- [![Scopus](https://img.shields.io/badge/Scopus--brightgreen?style=social&logo=Scopus)](https://www.scopus.com/authid/detail.uri?authorId=57221205566)
