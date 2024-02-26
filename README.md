@@ -21,7 +21,7 @@ Steps of the study:<br>
 4) Analysis of the HIV-positive sequencing data
 5) Finding the differences in exogenous DNA composition between HIV- and HIV+ NIPT samples<br>
 
-The results will be published in the very begining of the May, 2024 in one of the repositories in this profile.<br>
+The results will be published in the very begining of the May, 2024 in [The-shadow-of-HIV repository](https://github.com/iliapopov17/The-shadow-of-HIV).<br>
   * **Skills:** Bash, bwa, bowtie2, Snakemake, kraken2.<br>
 </details>
 
