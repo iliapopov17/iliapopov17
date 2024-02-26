@@ -1,43 +1,41 @@
-<h1 align="center"> Ilia Popov </h1>
+# Ilia Popov
 
-### Contacts:
 [![Telegram](https://img.shields.io/badge/Telegram--brightgreen?style=social&logo=Telegram)](https://t.me/ilya_pop0v)
 [![iljapopov17@gmail.com](https://img.shields.io/badge/iljapopov17@gmail.com--brightgreen?style=social&logo=gmail)](mailto:iljapopov17@gmail.com)
 
-### I am:
-🔬 Research assistant at Don State Technical University
+[Bioinformatics Institute](https://bioinf.me/en), Bioinformatics for Biologists </br>
+[Rostov State Medical University](https://rostgmu.net), Medical Doctor </br>
 
-🩺 Medical Doctor
+## Research experience
 
-💻 Studying at Bioinformatics Institution
+<details><summary>
+<b>Bioinformatics Institute project</b>: The shadow of HIV: searching for indirect signs of HIV infection in cell-free DNA samples
+</summary><br> 
+ 
+Data of WGS-based non-invasive prenatal testing (NIPT) or cell-free DNA testing contains exogenous DNA (bacterial and viral). This information is too fragmentary to conduct full microbiome studies, but still interesting for expanding NIPT functionality.<br>
+Being a retrovirus, HIV can not be directly detected in cell-free DNA data.<br>
+Steps of the study:<br>
+1) Extraction of unmapped reads
+2) **__Assigning taxonomic labels__** - current step
+3) Creating residual virus and microbiome profiles of two datasets
+4) Analysis of the HIV-positive sequencing data
+5) Finding the differences in exogenous DNA composition between HIV- and HIV+ NIPT samples<br>
 
-📚 Literally bookworm
+The results will be published in the very begining of the May, 2024 in one of the repositories in this profile.<br>
+  * **Skills:** Bash, bwa, bowtie2, Snakemake, kraken2.<br>
+</details>
 
-✈️ Enjoy travelling
+<details><summary>
+<b>Research Internship</b>: Pediatric Nutritional Medicine and Intestinal Microbiology
+</summary><br>
+ 
+I determined the multivariate association between clinical metadata and microbial meta-omics characteristics in a clinical study comparing gut microbiota profiles in stunted and normal children aged 36-45 months.<br>
+Data used for analysis: amplicon sequencing of V3-V4 16s rRNA from stool samples of children participating in the study.<br>
+Results are to be published in PLoS ONE - Gut microbiota differences in stunted and normal-lenght children aged 36 – 45 months in East Nusa Tenggara, Indonesia
+  * **Skills:** R, dplyr, ggplot2, tidyverse, tidyr, MaAsLin2.<br>
+</details>
 
-### Papers:
-<!--- [![Scopus](https://img.shields.io/badge/Scopus--brightgreen?style=social&logo=Scopus)](https://www.scopus.com/authid/detail.uri?authorId=57221205566)
-[![WoS](https://img.shields.io/badge/WoS--brightgreen?style=social&logo=Clarivate)](https://www.webofscience.com/wos/author/record/ABB-2502-2021)
--->
-
-<p align="left">
-   <a 
-    href="https://www.scopus.com/authid/detail.uri?authorId=57221205566" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://img.shields.io/badge/Scopus--brightgreen?style=for-the-badge&logo=Scopus"
-    /> 
- </a> 
-        <a 
-    href="https://www.webofscience.com/wos/author/record/ABB-2502-2021" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://img.shields.io/badge/WoS--brightgreen?style=for-the-badge&logo=Clarivate&logoColor=white"
-    /> 
- </a> 
-</p>
-
-### Skills: 
+## Skills: 
 
 <p align="left">
    <a 
