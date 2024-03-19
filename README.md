@@ -35,6 +35,44 @@ Details available in [PNMIM repository](https://github.com/iliapopov17/PNMIM)
   * **Skills:** BAGEL4, CRISPRCasFinder, R, dplyr, ggplot2, tidyverse, tidyr, MaAsLin2.<br>
 </details>
 
+## Study projects
+
+<details><summary>
+<b>Beginner-level tools</b>
+</summary><br> 
+ 
+1. **SequenceForge-Lite**<br>
+[Repository](https://github.com/iliapopov17/SequenceForge-Lite)<br>
+It is a lightweight tool designed to work with biological sequence data, providing various functionalities for filtering FASTQ files and manipulating FASTA files
+
+2. **MyAwesomeEDA**<br>
+[Repository](https://github.com/iliapopov17/MyAwesomeEDA)<br>
+Python module that provides a set of tools for exploring and analyzing your dataset
+</details>
+
+<details><summary>
+<b>Bioinformatics Institute: mini-projects</b>
+</summary><br> 
+
+ This [repository](https://github.com/iliapopov17/BI-Workshop-miniProjects) holds mini projects completed as part of the workshops undertaken during the training at the Bioinformatics Institute. Currently, it describes work on bacterial genome annotation, assembly, protein function prediction, genotyping and RNA sequencing data analysis to detect differential expression
+</details>
+
+<details><summary>
+<b>Bioinformatics Institute: Phylogenetics</b>
+</summary><br>
+ 
+This [repository](https://github.com/iliapopov17/BI-Phylogenetics) collects a complete pipeline of simple research in phylogenetics, from working with NCBI (and other databases) to building trees, evaluating them, and getting some worthwhile results.
+</details>
+
+<details><summary>
+<b>Human Microbiome Research</b>
+</summary><br>
+ 
+This [repository](https://github.com/iliapopov17/Human-Microbiome-Research-User-Manual) contains a report on a project that was carried out as part of the training course «Human Microbiome Research - User Manual» by Blastim
+</details>
+
+**Many more to be disclosured soon!**
+
 ## Skills: 
 
 <p align="left">
