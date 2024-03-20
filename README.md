@@ -65,13 +65,13 @@ This [repository](https://github.com/iliapopov17/BI-Phylogenetics) collects a co
 </details>
 
 <details><summary>
-<b>Human Microbiome Research</b>
+<b>Blastim: Human Microbiome Research</b>
 </summary><br>
  
 This [repository](https://github.com/iliapopov17/Human-Microbiome-Research-User-Manual) contains a report on a project that was carried out as part of the training course «Human Microbiome Research - User Manual» by Blastim
 </details>
 
-**Many more to be disclosured soon!**
+**Much more to be disclosured soon!**
 
 ## Skills: 
 
