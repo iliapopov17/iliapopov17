@@ -54,7 +54,13 @@ Python module that provides a set of tools for exploring and analyzing your data
 <b>Bioinformatics Institute: mini-projects</b>
 </summary><br> 
 
- This [repository](https://github.com/iliapopov17/BI-Workshop-miniProjects) holds mini projects completed as part of the workshops undertaken during the training at the Bioinformatics Institute. Currently, it describes work on bacterial genome annotation, assembly, protein function prediction, genotyping and RNA sequencing data analysis to detect differential expression
+ This [repository](https://github.com/iliapopov17/BI-Workshop-miniProjects) holds mini projects completed as part of the workshops undertaken during the training at the Bioinformatics Institute: <br>
+ 1. Variant calling of _Escherichia coli_ WGS
+ 2. Variant calling of deep sequencing data (_Influenza A virus_ (H3N2) hemagglutinin gene).
+ 3. _De novo_ assembly of _Escherichia coli_ genome
+ 4. Tardigrade _Ramazzottius varieornatus_ genome annotation and protein function prediction
+ 5. Genotyping and SNP annotation of human 23andMe data
+ 6. RNA-seq data analysis for differential gene expression of _Saccharomyces cerevisiae_ after 30 minutes of fermentation
 </details>
 
 <details><summary>
@@ -64,14 +70,21 @@ Python module that provides a set of tools for exploring and analyzing your data
 This [repository](https://github.com/iliapopov17/BI-Phylogenetics) collects a complete pipeline of simple research in phylogenetics, from working with NCBI (and other databases) to building trees, evaluating them, and getting some worthwhile results.
 </details>
 
+## Manuals
+
 <details><summary>
-<b>Human Microbiome Research Manual</b>
+<b>Human Microbiome Research</b>
 </summary><br>
- 
-This [repository](https://github.com/iliapopov17/Human-Microbiome-Research-User-Manual) contains a report on a project that was carried out as part of the training course «Human Microbiome Research - User Manual» by Blastim
+
+This [repository](https://github.com/iliapopov17/Human-Microbiome-Research-User-Manual) contains a manual on conducting studies within human microbiome. As an example, data on the composition of the gut microbiome in people with Crohn's disease and healthy controls  are presented.
 </details>
 
-**Much more to be disclosured soon!**
+<details><summary>
+<b>NGS Data Analysis</b>
+</summary><br>
+
+This [repository](https://github.com/iliapopov17/NGS-Data-Analysis-Manual) contains a manual on conducting NGS data analysis studies. At the moment there are detailed manuals on Quality Control and Variant Calling. **Much more to be disclosured soon!**
+</details>
 
 ## Skills: 
 
