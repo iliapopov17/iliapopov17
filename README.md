@@ -9,7 +9,7 @@
 ## Research experience
 
 <details><summary>
-<b>Bioinformatics Institute project</b>: The shadow of HIV: searching for indirect signs of HIV infection in cell-free DNA samples
+<b>Bioinformatics Institute Research Project</b>: The shadow of HIV: searching for indirect signs of HIV infection in cell-free DNA samples
 </summary><br> 
  
 Data of WGS-based non-invasive prenatal testing (NIPT) or cell-free DNA testing contains exogenous DNA (bacterial and viral). This information is too fragmentary to conduct full microbiome studies, but still interesting for expanding NIPT functionality.<br>
@@ -51,7 +51,7 @@ Python module that provides a set of tools for exploring and analyzing your data
 </details>
 
 <details><summary>
-<b>Bioinformatics Institute: mini-projects</b>
+<b>Bioinformatics Institute: study projects</b>
 </summary><br> 
 
  This [repository](https://github.com/iliapopov17/BI-Workshop-miniProjects) holds mini projects completed as part of the workshops undertaken during the training at the Bioinformatics Institute: <br>
