@@ -56,7 +56,7 @@ Python module that provides a set of tools for exploring and analyzing your data
 <b>Bioinformatics Institute: study projects</b>
 </summary><br> 
 
- This [repository](https://github.com/iliapopov17/BI-Workshop-miniProjects) holds mini projects completed as part of the workshops undertaken during the training at the Bioinformatics Institute: <br>
+ This [repository](https://github.com/iliapopov17/BI-Workshop-miniProjects) holds study projects completed as part of the workshops undertaken during the training at the Bioinformatics Institute: <br>
  1. Variant calling of _Escherichia coli_ WGS
  2. Variant calling of deep sequencing data (_Influenza A virus_ (H3N2) hemagglutinin gene).
  3. _De novo_ assembly of _Escherichia coli_ genome
