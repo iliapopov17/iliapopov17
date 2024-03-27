@@ -64,6 +64,7 @@ Python module that provides a set of tools for exploring and analyzing your data
  4. Tardigrade _Ramazzottius varieornatus_ genome annotation and protein function prediction
  5. Genotyping and SNP annotation of human 23andMe data
  6. RNA-seq data analysis for differential gene expression of _Saccharomyces cerevisiae_ after 30 minutes of fermentation
+ 7. Ancient metagenomes analysis examining human dental calculus
 </details>
 
 <details><summary>
