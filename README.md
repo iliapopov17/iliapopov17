@@ -35,9 +35,7 @@ The results will be published in the very begining of the May, 2024 in [The-shad
 Performed genome-based safety assessment of the probiotic strain _Lpb. plantarum_ IS-10506.<br>
 Determined the multivariate association between clinical metadata and microbial meta-omics characteristics in a clinical study comparing gut microbiota profiles in stunted and normal children aged 36-45 months.<br>
 
-Details available in [PNMIM repository](https://github.com/iliapopov17/PNMIM)<br>
-
-Paper: [Surono, I.S., Popov, I., Verbruggen, S., Verhoeven, J., Kusumo, P.D., Venema, K. Gut microbiota differences in stunted and normal-length children aged 36–45 months in East Nusa Tenggara, Indonesia. PLoS ONE 19, e0299349 (2024).](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299349) https://doi.org/10.1371/journal.pone.0299349
+Details available in [PNMIM repository](https://github.com/iliapopov17/PNMIM)
   * **Skills:** BAGEL4, CRISPRCasFinder, R, dplyr, ggplot2, tidyverse, tidyr, MaAsLin2.<br>
 </details>
 
