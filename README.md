@@ -1,8 +1,7 @@
 # Ilia Popov
 
 [![Telegram](https://img.shields.io/badge/Telegram--brightgreen?style=social&logo=Telegram)](https://t.me/ilya_pop0v)
-
-[//]: # "[![iljapopov17@gmail.com](https://img.shields.io/badge/iljapopov17@gmail.com--brightgreen?style=social&logo=gmail)](mailto:iljapopov17@gmail.com)"
+[![iljapopov17@gmail.com](https://img.shields.io/badge/iljapopov17@gmail.com--brightgreen?style=social&logo=gmail)](mailto:iljapopov17@gmail.com)
 
 [Bioinformatics Institute](https://bioinf.me/en), Bioinformatics for Biologists </br>
 [Rostov State Medical University](https://rostgmu.net), Medical Doctor </br>
@@ -10,7 +9,7 @@
 ## Research experience
 
 <details><summary>
-<b>Bioinformatics Institute Research Project</b>: The shadow of HIV: searching for indirect signs of HIV infection in cell-free DNA samples
+<b>Bioinformatics Institute Research Project</b>: The shadow of HIV
 </summary><br> 
  
 Data of WGS-based non-invasive prenatal testing (NIPT) or cell-free DNA testing contains exogenous DNA (bacterial and viral). This information is too fragmentary to conduct full microbiome studies, but still interesting for expanding NIPT functionality.<br>
