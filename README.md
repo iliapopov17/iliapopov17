@@ -6,11 +6,11 @@
 [Bioinformatics Institute](https://bioinf.me/en), Bioinformatics for Biologists </br>
 [Rostov State Medical University](https://rostgmu.net), Medical Doctor </br>
 
-## Research experience
-
 <details><summary>
-<b>Bioinformatics Institute Research Project</b>: The shadow of HIV
+<b>Research experience</b>
 </summary><br> 
+
+### Bioinformatics Institute Research Project: The shadow of HIV
  
 Data of WGS-based non-invasive prenatal testing (NIPT) or cell-free DNA testing contains exogenous DNA (bacterial and viral). This information is too fragmentary to conduct full microbiome studies, but still interesting for expanding NIPT functionality.<br>
 Being a retrovirus, HIV can not be directly detected in cell-free DNA data.<br>
@@ -25,11 +25,8 @@ Steps of the study:<br>
 
 The results will be published in the very begining of the May, 2024 in [The-shadow-of-HIV repository](https://github.com/iliapopov17/The-shadow-of-HIV).<br>
   * **Skills:** Bash, bwa, bowtie2, Snakemake, kraken2.<br>
-</details>
 
-<details><summary>
-<b>Research Internship</b>: Pediatric Nutritional Medicine and Intestinal Microbiology
-</summary><br>
+### Research Internship: Pediatric Nutritional Medicine and Intestinal Microbiology
 
 Performed genome-based safety assessment of the probiotic strain _Lpb. plantarum_ IS-10506.<br>
 Determined the multivariate association between clinical metadata and microbial meta-omics characteristics in a clinical study comparing gut microbiota profiles in stunted and normal children aged 36-45 months.<br>
@@ -38,11 +35,11 @@ Details available in [PNMIM repository](https://github.com/iliapopov17/PNMIM)
   * **Skills:** BAGEL4, CRISPRCasFinder, R, dplyr, ggplot2, tidyverse, tidyr, MaAsLin2.<br>
 </details>
 
-## Study projects
-
 <details><summary>
-<b>Beginner-level tools</b>
+<b>Study projects</b>
 </summary><br> 
+
+### Beginner-level tools
  
 1. **SequenceForge-Lite**<br>
 [Repository](https://github.com/iliapopov17/SequenceForge-Lite)<br>
@@ -51,11 +48,8 @@ It is a lightweight tool designed to work with biological sequence data, providi
 2. **MyAwesomeEDA**<br>
 [Repository](https://github.com/iliapopov17/MyAwesomeEDA)<br>
 Python module that provides a set of tools for exploring and analyzing your dataset
-</details>
 
-<details><summary>
-<b>Bioinformatics Institute: study projects</b>
-</summary><br> 
+### Bioinformatics Institute: study projects
 
  This [repository](https://github.com/iliapopov17/BI-Workshop-miniProjects) holds study projects completed as part of the workshops undertaken during the training at the Bioinformatics Institute: <br>
  1. Variant calling of _Escherichia coli_ WGS
@@ -65,27 +59,21 @@ Python module that provides a set of tools for exploring and analyzing your data
  5. Genotyping and SNP annotation of human 23andMe data
  6. RNA-seq data analysis for differential gene expression of _Saccharomyces cerevisiae_ after 30 minutes of fermentation
  7. Ancient metagenomes analysis examining human dental calculus
-</details>
 
-<details><summary>
-<b>Bioinformatics Institute: Phylogenetics</b>
-</summary><br>
+### Bioinformatics Institute: Phylogenetics
  
 This [repository](https://github.com/iliapopov17/BI-Phylogenetics) collects a complete pipeline of simple research in phylogenetics, from working with NCBI (and other databases) to building trees, evaluating them, and getting some worthwhile results.
 </details>
 
-## Manuals
-
 <details><summary>
-<b>Human Microbiome Research</b>
-</summary><br>
+<b>Manuals</b>
+</summary><br> 
+
+### Human Microbiome Research
 
 This [repository](https://github.com/iliapopov17/Human-Microbiome-Research-User-Manual) contains a manual on conducting studies within human microbiome. As an example, data on the composition of the gut microbiome in people with Crohn's disease and healthy controls  are presented.
-</details>
 
-<details><summary>
-<b>NGS Data Analysis</b>
-</summary><br>
+### NGS Data Analysis
 
 This [repository](https://github.com/iliapopov17/NGS-Data-Analysis-Manual) contains a manual on conducting NGS data analysis studies. At the moment there are detailed manuals on Quality Control and Variant Calling. **Much more to be disclosured soon!**
 </details>
@@ -164,3 +152,5 @@ This [repository](https://github.com/iliapopov17/NGS-Data-Analysis-Manual) conta
     /> 
  </a> 
 </p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iliapopov17&theme=default)](https://git.io/streak-stats)
