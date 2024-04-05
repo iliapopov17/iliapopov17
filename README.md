@@ -153,4 +153,4 @@ This [repository](https://github.com/iliapopov17/NGS-Data-Analysis-Manual) conta
  </a> 
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iliapopov17&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iliapopov17&hide_border=true)](https://git.io/streak-stats)
