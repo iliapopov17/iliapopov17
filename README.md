@@ -53,7 +53,7 @@ Python module that provides a set of tools for exploring and analyzing your data
 
  This [repository](https://github.com/iliapopov17/BI-Workshop-miniProjects) holds study projects completed as part of the workshops undertaken during the training at the Bioinformatics Institute: <br>
  1. Variant calling of _Escherichia coli_ WGS
- 2. Variant calling of deep sequencing data (_Influenza A virus_ (H3N2) hemagglutinin gene).
+ 2. Variant calling of deep sequencing data (_Influenza A virus_ (H3N2) hemagglutinin gene)
  3. _De novo_ assembly of _Escherichia coli_ genome
  4. Tardigrade _Ramazzottius varieornatus_ genome annotation and protein function prediction
  5. Genotyping and SNP annotation of human 23andMe data
@@ -64,6 +64,14 @@ Python module that provides a set of tools for exploring and analyzing your data
 ### Bioinformatics Institute: Phylogenetics
  
 This [repository](https://github.com/iliapopov17/BI-Phylogenetics) collects a complete pipeline of simple research in phylogenetics, from working with NCBI (and other databases) to building trees, evaluating them, and getting some worthwhile results.
+
+### Blastim: statistics projects
+
+ This [repository](https://github.com/iliapopov17/R-mini-projects) holds study projects completed as part of the «Statistics, R and data analysis» study course by Blastim in 2022: <br>
+ 1. Ant microbiomes
+ 2. Marker for pneumonia (TBD)
+ 3. Controlled evolutionary inheritance (TBD)
+ 4. Metabolites of primates (TBD)
 </details>
 
 <details><summary>
