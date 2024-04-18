@@ -7,7 +7,7 @@
 [Rostov State Medical University](https://rostgmu.net), Medical Doctor </br>
 
 <details><summary>
-<b>Research experience</b>
+<b>Research experience 🔬</b>
 </summary><br> 
 
 ### Bioinformatics Institute Research Project: The shadow of HIV
@@ -36,7 +36,7 @@ Details available in [PNMIM repository](https://github.com/iliapopov17/PNMIM)
 </details>
 
 <details><summary>
-<b>Study projects</b>
+<b>Study projects 📚</b>
 </summary><br> 
 
 ### Beginner-level tools
@@ -75,7 +75,7 @@ This [repository](https://github.com/iliapopov17/BI-Phylogenetics) collects a co
 </details>
 
 <details><summary>
-<b>Manuals</b>
+<b>Manuals 📄</b>
 </summary><br> 
 
 ### Human Microbiome Research
