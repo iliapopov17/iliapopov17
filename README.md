@@ -36,7 +36,7 @@ Details available in [PNMIM repository](https://github.com/iliapopov17/PNMIM)
 </details>
 
 <details><summary>
-<b>Study projects 📚</b>
+<b>Study projects 👨🏻‍💻</b>
 </summary><br> 
 
 ### Beginner-level tools
@@ -61,10 +61,6 @@ Python module that provides a set of tools for exploring and analyzing your data
  7. Ancient metagenomes analysis examining human dental calculus
  8. Annotation of the immune repertoire derived from the T-cell population in a relatively healthy donor
 
-### Bioinformatics Institute: Phylogenetics
- 
-This [repository](https://github.com/iliapopov17/BI-Phylogenetics) collects a complete pipeline of simple research in phylogenetics, from working with NCBI (and other databases) to building trees, evaluating them, and getting some worthwhile results.
-
 ### Blastim: statistics projects
 
  This [repository](https://github.com/iliapopov17/R-mini-projects) holds study projects completed as part of the «Statistics, R and data analysis» study course by Blastim in 2022: <br>
@@ -75,8 +71,12 @@ This [repository](https://github.com/iliapopov17/BI-Phylogenetics) collects a co
 </details>
 
 <details><summary>
-<b>Manuals 📄</b>
+<b>Handbooks 📖</b>
 </summary><br> 
+
+### Bioinformatics Institute: Phylogenetics
+ 
+This [repository](https://github.com/iliapopov17/BI-Phylogenetics) collects a complete pipeline of simple research in phylogenetics, from working with NCBI (and other databases) to building trees, evaluating them, and getting some worthwhile results.
 
 ### Human Microbiome Research
 
