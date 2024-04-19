@@ -74,7 +74,7 @@ Python module that provides a set of tools for exploring and analyzing your data
 <b>Handbooks 📖</b>
 </summary><br> 
 
-### Bioinformatics Institute: Phylogenetics
+### Phylogenetics pipeline
  
 This [repository](https://github.com/iliapopov17/BI-Phylogenetics) collects a complete pipeline of simple research in phylogenetics, from working with NCBI (and other databases) to building trees, evaluating them, and getting some worthwhile results.
 
