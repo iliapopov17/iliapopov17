@@ -61,7 +61,7 @@ Python module that provides a set of tools for exploring and analyzing your data
  7. Ancient metagenomes analysis examining human dental calculus
  8. Annotation of the immune repertoire derived from the T-cell population in a relatively healthy donor
 
-### Blastim: statistics projects
+### Statistics projects
 
  This [repository](https://github.com/iliapopov17/R-mini-projects) holds study projects completed as part of the «Statistics, R and data analysis» study course by Blastim in 2022: <br>
  1. Ant microbiomes
