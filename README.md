@@ -54,7 +54,7 @@ Python module that provides a set of tools for exploring and analyzing your data
  This [repository](https://github.com/iliapopov17/BI-Workshop-miniProjects) holds study projects completed as part of the workshops undertaken during the training at the Bioinformatics Institute: <br>
  1. Variant calling of _Escherichia coli_ WGS
  2. Variant calling of deep sequencing data (_Influenza A virus_ (H3N2) hemagglutinin gene)
- 3. _De novo_ assembly of _Escherichia coli_ genome
+ 3. _De novo_ assembly of _Escherichia coli_ genome (TBD)
  4. Tardigrade _Ramazzottius varieornatus_ genome annotation and protein function prediction
  5. Genotyping and SNP annotation of human 23andMe data
  6. RNA-seq data analysis for differential gene expression of _Saccharomyces cerevisiae_ after 30 minutes of fermentation
