@@ -162,4 +162,10 @@ This [repository](https://github.com/iliapopov17/NGS-Data-Analysis-Manual) conta
  </a> 
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iliapopov17&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats#gh-light-mode-only">
+  <img src="https://streak-stats.demolab.com?user=iliapopov17&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<a href="https://git.io/streak-stats#gh-dark-mode-only">
+  <img src="https://streak-stats.demolab.com?user=iliapopov17&theme=dark&&background=0E1116&hide_border=true" alt="GitHub Streak" />
+</a>
