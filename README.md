@@ -60,6 +60,7 @@ Python module that provides a set of tools for exploring and analyzing your data
  6. RNA-seq data analysis for differential gene expression of _Saccharomyces cerevisiae_ after 30 minutes of fermentation
  7. Ancient metagenomes analysis examining human dental calculus
  8. Annotation of the immune repertoire derived from the T-cell population in a relatively healthy donor
+ 9. Single-cell CITE-seq analysis detailing the cellular composition and transcriptional profiles within human bone marrow
 
 ### Statistics & R projects
 
