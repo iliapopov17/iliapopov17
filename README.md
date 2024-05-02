@@ -17,14 +17,14 @@ Being a retrovirus, HIV can not be directly detected in cell-free DNA data.<br>
 Steps of the study:<br>
 1) Extraction of unmapped reads
 2) Assigning taxonomic labels
-3) **__Creating residual virus and microbiome profiles of two datasets__** - current step
+3) Creating residual virus and microbiome profiles of two datasets
 4) Analysis of the HIV-positive sequencing data
-5) Finding the differences in exogenous DNA composition between HIV- and HIV+ NIPT samples<br>
+5) **__Finding the differences in exogenous DNA composition between HIV- and HIV+ NIPT samples__** - current step<br>
 
-![](https://geps.dev/progress/50)
+![](https://geps.dev/progress/90)
 
 The results will be published in the very begining of the May, 2024 in [The-shadow-of-HIV repository](https://github.com/iliapopov17/The-shadow-of-HIV).<br>
-  * **Skills:** Bash, bwa, bowtie2, Snakemake, kraken2.<br>
+  * **Skills:** Bash, bwa, bowtie2, Snakemake, Kraken2, KrakenTools, MetaPhlan, Crona, MaAsLin2.<br>
 
 ### Research Internship: Pediatric Nutritional Medicine and Intestinal Microbiology
 
