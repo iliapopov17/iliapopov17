@@ -21,12 +21,10 @@ Steps of the study:<br>
 4) Analysis of the HIV-positive sequencing data
 5) Finding the differences in exogenous DNA composition between HIV- and HIV+ NIPT samples<br>
 
-**The project is finished. Please wait for results to be published.**
-
 ![](https://geps.dev/progress/100)
 
-The results will be published in the very begining of the May, 2024 in [The-shadow-of-HIV repository](https://github.com/iliapopov17/The-shadow-of-HIV).<br>
-  * **Skills:** Bash, bwa, bowtie2, Snakemake, Kraken2, KrakenTools, MetaPhlan, MaAsLin2.<br>
+The results are published in [The-shadow-of-HIV repository](https://github.com/iliapopov17/The-shadow-of-HIV).<br>
+  * **Skills:** Bash, bowtie2, Snakemake, Kraken2, KrakenTools, MaAsLin2.<br>
 
 ### Research Internship: Pediatric Nutritional Medicine and Intestinal Microbiology 🏥
 
