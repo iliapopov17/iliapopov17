@@ -21,8 +21,6 @@ Steps of the study:<br>
 4) Analysis of the HIV-positive sequencing data
 5) Finding the differences in exogenous DNA composition between HIV- and HIV+ NIPT samples<br>
 
-![](https://geps.dev/progress/100)
-
 The results are published in [The-shadow-of-HIV repository](https://github.com/iliapopov17/The-shadow-of-HIV).<br>
   * **Skills:** Bash, bowtie2, Snakemake, Kraken2, KrakenTools, MaAsLin2.<br>
 
