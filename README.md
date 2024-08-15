@@ -63,11 +63,7 @@ Python module that provides a set of tools for exploring and analyzing your data
 
 <details><summary>
 <b>Handbooks 📖</b>
-</summary><br> 
-
-### Phylogenetics pipeline 🌳
- 
-This [repository](https://github.com/iliapopov17/BI-Phylogenetics) collects a complete pipeline of simple research in phylogenetics, from working with NCBI (and other databases) to building trees, evaluating them, and getting some worthwhile results.
+</summary><br>
 
 ### Human Microbiome Research 🧫
 
@@ -75,7 +71,7 @@ This [repository](https://github.com/iliapopov17/Human-Microbiome-Research-User-
 
 ### NGS Data Analysis 🧐
 
-This [repository](https://github.com/iliapopov17/NGS-Data-Analysis-Manual) contains a manual on conducting NGS data analysis studies. At the moment there are detailed manuals on Quality Control and Variant Calling. **Much more to be disclosured soon!**
+This [repository](https://github.com/iliapopov17/NGS-Data-Analysis-Manual) contains a manual on conducting NGS data analysis studies. At the moment there are detailed manuals on Quality Control and Variant Calling along with the complete pipeline of simple research in phylogenetics. **Much more to be disclosured soon!**
 </details>
 
 ## Skills: 
