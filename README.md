@@ -59,14 +59,6 @@ Python module that provides a set of tools for exploring and analyzing your data
  7. Ancient metagenomes analysis examining human dental calculus
  8. Annotation of the immune repertoire derived from the T-cell population in a relatively healthy donor
  9. Single-cell CITE-seq analysis detailing the cellular composition and transcriptional profiles within human bone marrow
-
-### Statistics & R projects 📊
-
- This [repository](https://github.com/iliapopov17/R-mini-projects) holds study projects completed as part of the «Statistics, R and data analysis» study course by Blastim in 2022: <br>
- 1. Ant microbiomes
- 2. Marker for pneumonia (TBD)
- 3. Controlled evolutionary inheritance (TBD)
- 4. Metabolites of primates (TBD)
 </details>
 
 <details><summary>
