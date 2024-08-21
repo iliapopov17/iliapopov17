@@ -39,12 +39,10 @@ Details available in [PNMIM repository](https://github.com/iliapopov17/PNMIM)
 
 ### Beginner-level tools 🛠️
  
-1. **SequenceForge-Lite**<br>
-[Repository](https://github.com/iliapopov17/SequenceForge-Lite)<br>
+1. [**SequenceForge-Lite**](https://github.com/iliapopov17/SequenceForge-Lite)<br>
 Lightweight tool to work with biological sequences, providing various functionalities for filtering `.fastq` files and manipulating `.fasta` files
 
-2. **MyAwesomeEDA**<br>
-[Repository](https://github.com/iliapopov17/MyAwesomeEDA)<br>
+2. [**MyAwesomeEDA**](https://github.com/iliapopov17/MyAwesomeEDA)<br>
 Python module that provides a set of tools for exploring and analyzing your dataset
 
 ### Bioinformatics Institute: study projects 📚
