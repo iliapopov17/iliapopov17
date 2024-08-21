@@ -10,7 +10,7 @@
 <b>Research experience 🔬</b>
 </summary><br> 
 
-### Bioinformatics Institute Research Project: The shadow of HIV 🦠
+### [Bioinformatics Institute Research Project: The shadow of HIV 🦠](https://github.com/iliapopov17/The-shadow-of-HIV)
  
 Data of WGS-based non-invasive prenatal testing (NIPT) or cell-free DNA testing contains exogenous DNA (bacterial and viral). This information is too fragmentary to conduct full microbiome studies, but still interesting for expanding NIPT functionality.<br>
 Being a retrovirus, HIV can not be directly detected in cell-free DNA data.<br>
@@ -21,15 +21,13 @@ Steps of the study:<br>
 4) Analysis of the HIV-positive sequencing data
 5) Finding the differences in exogenous DNA composition between HIV- and HIV+ NIPT samples<br>
 
-The results are published in [The-shadow-of-HIV repository](https://github.com/iliapopov17/The-shadow-of-HIV).<br>
   * **Skills:** Bash, bowtie2, Snakemake, Kraken2, KrakenTools, MaAsLin2.<br>
 
-### Research Internship: Pediatric Nutritional Medicine and Intestinal Microbiology 🏥
+### [Research Internship: Pediatric Nutritional Medicine and Intestinal Microbiology 🏥](https://github.com/iliapopov17/PNMIM)
 
 Performed genome-based safety assessment of the probiotic strain _Lpb. plantarum_ IS-10506.<br>
 Determined the multivariate association between clinical metadata and microbial meta-omics characteristics in a clinical study comparing gut microbiota profiles in stunted and normal children aged 36-45 months.<br>
 
-Details available in [PNMIM repository](https://github.com/iliapopov17/PNMIM)
   * **Skills:** BAGEL4, CRISPRCasFinder, R, dplyr, ggplot2, tidyverse, tidyr, MaAsLin2.<br>
 </details>
 
