@@ -41,7 +41,7 @@ Details available in [PNMIM repository](https://github.com/iliapopov17/PNMIM)
  
 1. **SequenceForge-Lite**<br>
 [Repository](https://github.com/iliapopov17/SequenceForge-Lite)<br>
-It is a lightweight tool designed to work with biological sequence data, providing various functionalities for filtering FASTQ files and manipulating FASTA files
+Lightweight tool to work with biological sequences, providing various functionalities for filtering `.fastq` files and manipulating `.fasta` files
 
 2. **MyAwesomeEDA**<br>
 [Repository](https://github.com/iliapopov17/MyAwesomeEDA)<br>
@@ -49,7 +49,7 @@ Python module that provides a set of tools for exploring and analyzing your data
 
 ### Bioinformatics Institute: study projects 📚
 
- This [repository](https://github.com/iliapopov17/BI-Workshop-miniProjects) holds study projects completed as part of the workshops undertaken during the training at the Bioinformatics Institute: <br>
+[Projects](https://github.com/iliapopov17/BI-Workshop-miniProjects) completed during training at the Bioinformatics Institute: <br>
  1. Variant calling of _Escherichia coli_ WGS
  2. Variant calling of deep sequencing data (_Influenza A virus_ (H3N2) hemagglutinin gene)
  3. _De novo_ assembly of _Escherichia coli_ genome (TBD)
@@ -67,11 +67,11 @@ Python module that provides a set of tools for exploring and analyzing your data
 
 ### Human Microbiome Research 🧫
 
-This [repository](https://github.com/iliapopov17/Human-Microbiome-Research-User-Manual) contains a manual on conducting studies within human microbiome. As an example, data on the composition of the gut microbiome in people with Crohn's disease and healthy controls  are presented.
+[Manual](https://github.com/iliapopov17/Human-Microbiome-Research-User-Manual) on conducting studies within human microbiome. As an example, data on the composition of the gut microbiome in people with Crohn's disease and healthy controls  are presented.
 
 ### NGS Data Analysis 🧐
 
-This [repository](https://github.com/iliapopov17/NGS-Data-Analysis-Manual) contains a manual on conducting NGS data analysis studies. At the moment there are detailed manuals on Quality Control and Variant Calling along with the complete pipeline of simple research in phylogenetics. **Much more to be disclosured soon!**
+[Handbook](https://github.com/iliapopov17/NGS-Data-Analysis-Manual) on conducting NGS data analysis studies. At the moment there are detailed manuals on Quality Control and Variant Calling along with the complete pipeline of simple research in phylogenetics. **Much more to be disclosured soon!**
 </details>
 
 ## Skills: 
