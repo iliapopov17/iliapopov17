@@ -58,12 +58,8 @@ Python module that provides a set of tools for exploring and analyzing your data
 </details>
 
 <details><summary>
-<b>Handbooks 📖</b>
+<b>Handbook 📖</b>
 </summary><br>
-
-### Human Microbiome Research 🧫
-
-[Manual](https://github.com/iliapopov17/Human-Microbiome-Research-User-Manual) on conducting studies within human microbiome. As an example, data on the composition of the gut microbiome in people with Crohn's disease and healthy controls  are presented.
 
 ### NGS Data Analysis 🧐
 
