@@ -63,7 +63,12 @@ Python module that provides a set of tools for exploring and analyzing your data
 
 ### NGS Data Analysis 🧐
 
-[Handbook](https://github.com/iliapopov17/NGS-Handbook) on conducting NGS data analysis studies. At the moment there are detailed manuals on Quality Control and Variant Calling along with the complete pipeline of simple research in phylogenetics. **Much more to be disclosured soon!**
+[Handbook](https://github.com/iliapopov17/NGS-Handbook) on conducting NGS data analysis studies:
+1. Quality Control of raw data
+2. Genomic Variation Analysis
+3. Whole Genome and Pangenome Analyses
+4. Phylogenetics
+5. 16S Amplicon Analysis
 </details>
 
 ## Skills: 
