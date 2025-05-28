@@ -6,6 +6,7 @@
 [Bioinformatics Institute](https://bioinf.me/en), Bioinformatics for Biologists </br>
 [Rostov State Medical University](https://rostgmu.net), Medical Doctor </br>
 
+<!--
 <details><summary>
 <b>Research experience 🔬</b>
 </summary><br> 
@@ -70,6 +71,7 @@ Python module that provides a set of tools for exploring and analyzing your data
 4. Phylogenetics
 5. 16S Amplicon Analysis
 </details>
+-->
 
 ## Skills: 
 
