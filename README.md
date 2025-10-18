@@ -2,10 +2,10 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram--brightgreen?style=social&logo=Telegram)](https://t.me/ilya_pop0v)
 [![iljapopov17@gmail.com](https://img.shields.io/badge/iljapopov17@gmail.com--brightgreen?style=social&logo=gmail)](mailto:iljapopov17@gmail.com)
-
+<!--
 [Bioinformatics Institute](https://bioinf.me/en), Bioinformatics for Biologists </br>
 [Rostov State Medical University](https://rostgmu.net), Medical Doctor </br>
-
+-->
 <!--
 <details><summary>
 <b>Research experience 🔬</b>
